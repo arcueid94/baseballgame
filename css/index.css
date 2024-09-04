@@ -1,0 +1,37 @@
+body {
+  background-color: #b5d692;
+  margin: 36px;
+}
+input {
+  display: inline-block;
+  width: 160px;
+  height: 160px;
+  text-align: center;
+  font-size: 64px;
+  font-weight: bold;
+  margin-right: 24px;
+  border-radius: 24px;
+  border: solid 2px #069af3;
+}
+select {
+  display: inline-block;
+  width: 248px;
+  height: 248px;
+  text-align: center;
+  font-size: 64px;
+  font-weight: bold;
+  margin-right: 24px;
+  border-radius: 24px;
+  border: solid 2px #069af3;
+}
+.swing {
+  display: inline-block;
+  width: 124px;
+  height: 124px;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: 94px;
+  border-radius: 24px;
+  border: solid 2px #069af3;
+}
